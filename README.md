@@ -1,2 +1,2 @@
-# JSX_RandomLuckyNumber
+# JSX_LuckyNumber
 Created with CodeSandbox
